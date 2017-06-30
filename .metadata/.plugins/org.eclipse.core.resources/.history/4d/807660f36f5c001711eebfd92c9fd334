@@ -1,0 +1,5 @@
+package com.xaas.eureka;
+
+public class Application {
+
+}

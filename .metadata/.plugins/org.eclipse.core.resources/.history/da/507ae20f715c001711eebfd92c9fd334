@@ -1,0 +1,5 @@
+package com.xaas.conf;
+
+public class Application {
+
+}

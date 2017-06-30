@@ -1,0 +1,15 @@
+package com.xaas.conf;
+
+/**
+ * Spring could conf程序主入口
+ * 
+ * @author Administrator
+ * 
+ */
+@SpringBootApplication
+@EnableConfigServer
+public class Application {
+	public static void main(String[] args) {
+		SpringApplication.run(Application.class, args);
+	}
+}

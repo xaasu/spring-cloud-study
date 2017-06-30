@@ -1,0 +1,5 @@
+package com.xaas.app.conf;
+
+public class SwaggerConfig {
+
+}
